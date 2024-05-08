@@ -1,6 +1,6 @@
 # Project1-DataViz
 Project 1 
-Project Title: COVID-19 Analysis by Country
+Project Title: Most Streamed Spotify Songs 2023
 
 Team Members:
  - Uxia Berrocal
@@ -8,19 +8,21 @@ Team Members:
  - Liseth Rubio
    
 Project Description/Outline:
- - Compare following data from different countries:
- - County
- - Population
- - Confirmed cases
+ - Compare following data from different artists:
+ - Streams
+ - Streams on Apple, Deezer, and Shazam
+ - Danceability Rate
  - Recovered cases
- - Deaths
- - Vaccination rates (partially and fully)
- - Life expectancy
+ - Streams Year
    
 Research Questions to Answer:
- - How do vaccination rates correlate to the number or percentage of deaths?
- - Is there any correlation between number of cases and percentage of fully or partially vaccinated population?
- - Is there any correlation between the number of cases of the life expectancy of a country?
+ - Most popular artist based on Streams
+ - Least popular artist based on Streams
+ - Most popular genres
+ - Most common bpm
+ - Is it danceability corelated with the number of streams or populatity.
+ - Trends in music over time (Streams Year)
+ - Linear relationship: Higher BPM (more energy, more excitement) to Danceability Rate 
    
 Datasets to be used:
- - Information gathered from Covid-19 API
+ - https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
