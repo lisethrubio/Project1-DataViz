@@ -18,7 +18,6 @@ Project Description/Outline:
 Research Questions to Answer:
  - Most popular artist based on Streams
  - Least popular artist based on Streams
- - Most popular genres
  - Most common bpm
  - Is it danceability corelated with the number of streams or populatity.
  - Trends in music over time (Streams Year)
