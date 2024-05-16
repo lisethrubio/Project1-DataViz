@@ -12,16 +12,17 @@ Project Description/Outline:
  - Streams
  - Streams on Apple, Deezer, and Shazam
  - Danceability Rate
- - Recovered cases
  - Streams Year
    
 Research Questions to Answer:
- - Most popular artist based on Streams
- - Least popular artist based on Streams
- - Most common bpm
- - Is it danceability corelated with the number of streams or populatity.
- - Trends in music over time (Streams Year)
- - Linear relationship: Higher BPM (more energy, more excitement) to Danceability Rate 
+- The most streamed artists in Spotify-Top 5
+- The least streamed artists in Spotify-Bottom 5 
+- Percentages of the most and least popular ranges of BPMs
+- Danceability Rate across different music platforms: Spotify, Apple, Shazam, and Deezer
+- Descriptive statistics and linear regression on danceability rate across different music platforms
+- Music popularity (number of streams) over time from 1930 to 2023
+
+
    
 Datasets to be used:
  - https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
