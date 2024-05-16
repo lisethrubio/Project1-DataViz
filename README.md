@@ -3,16 +3,14 @@ Project 1
 Project Title: Most Streamed Spotify Songs 2023
 
 Team Members:
- - Uxia Berrocal
  - Phuong Aissa
  - Liseth Rubio
    
 Project Description/Outline:
- - Compare following data from different artists:
- - Streams
- - Streams on Apple, Deezer, and Shazam
+ - Streams: max and min
+ - Streams on Spotify, Apple, Deezer, and Shazam
  - Danceability Rate
- - Streams Year
+ - Released Year 
    
 Research Questions to Answer:
 - The most streamed artists in Spotify-Top 5
